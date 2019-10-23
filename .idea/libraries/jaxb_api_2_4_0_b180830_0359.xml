@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jaxb-api-2.4.0-b180830.0359">
+    <CLASSES>
+      <root url="jar://D:/json-20140107.jar!/" />
+      <root url="jar://D:/json-simple-1.1.jar!/" />
+      <root url="jar://D:/jaxb-api-2.4.0-b180830.0359.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
